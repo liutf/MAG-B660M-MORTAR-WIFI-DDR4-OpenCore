@@ -545,15 +545,15 @@
                     <key>Arch</key>
                     <string>Any</string>
                     <key>Base</key>
-                    <string></string>
+                    <string>__ZN8AppleRTC18setupDateTimeAlarmEPK11RTCDateTime</string>
                     <key>Comment</key>
-                    <string>F1 Startup patch</string>
+                    <string>Disable RTC wake scheduling</string>
                     <key>Count</key>
                     <integer>1</integer>
                     <key>Enabled</key>
                     <true/>
                     <key>Find</key>
-                    <data>dTMPtw==</data>
+                    <data></data>
                     <key>Identifier</key>
                     <string>com.apple.driver.AppleRTC</string>
                     <key>Limit</key>
@@ -563,9 +563,9 @@
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
-                    <string></string>
+                    <string>19.0.0</string>
                     <key>Replace</key>
-                    <data>6zMPtw==</data>
+                    <data>ww==</data>
                     <key>ReplaceMask</key>
                     <data></data>
                     <key>Skip</key>
@@ -848,7 +848,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>F5K137902CDK3F71M</string>
+                <string>F5K1121084NK3F71M</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -862,9 +862,9 @@
                 <key>SystemProductName</key>
                 <string>MacPro7,1</string>
                 <key>SystemSerialNumber</key>
-                <string>F5KGDAYLP7QM</string>
+                <string>F5KFGKZWP7QM</string>
                 <key>SystemUUID</key>
-                <string>3B98DD65-B946-48B2-9BC5-C8AD0A35DA9A</string>
+                <string>2A8B614D-D65F-475A-B41C-FBC350432BD7</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
